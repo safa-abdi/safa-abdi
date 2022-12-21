@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm safa abdi</h1>
 <h3 align="center">A Full stack developer and an engineering student from Tunisia</h3>
 
-- 🎓 Hi I'm an engineering Student at **Higher Institute of Multimedia Arts of Manouba**
+- 🎓 I'm an engineering Student at **Higher Institute of Multimedia Arts of Manouba**
 
 - 🎓 I'm Graduated from **the higher Institute of Technological Studies of Nabeul**
 
